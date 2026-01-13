@@ -1,0 +1,13 @@
+{
+  "name": "Muria-Graphics",
+  "version": "1.0.1",
+  "title": "Muria Graphics",
+  "author": "AndreusAxolotl",
+  "homepage": "https://github.com/AndreusAxolotl/Muria-Graphics",
+  "description": "The graphics mod that makes Muria work",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ]
+}
